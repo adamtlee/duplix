@@ -14,7 +14,7 @@ This Python script is designed to find duplicate image files within a specified 
 1.  **Clone the Repository**: Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:adamtlee/duplix.git
 ```
 
 2.  **Install Dependencies**: Make sure you have Python 3 installed on your system. Install the required dependencies using `**pip**`:
